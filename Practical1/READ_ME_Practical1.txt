@@ -1,3 +1,16 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Networks : Structure and dynamics
+NSD: Practical 1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Authors:
+- MUTIAH BINTI ABDUL HAMID
+- ISRAEL MARQUEZ SALINAS
+
+Content:
+This folder contains the 8 exercises submitting Practical 1 in the NSD Laboratory (Autumn 2017/18). Every directory is contain a README.txt file, along with the required codes deployed for solving the proposed exercises.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Exercise 1 - Reading the graph from a text file with format x y, where each lines represents an edge between x and y nodes.
 
 The coding language has been defined as c++, we have used the operator >> which reads the entry in a file until it find an space or break line.

@@ -8,4 +8,5 @@ Authors:
 - ISRAEL MARQUEZ SALINAS
 
 Content:
-This folder contains the exercises proposed at Practicals in the NSD Laboratory (Autumn 2017/18).
+This folder contains the exercises submitting Practicals in the NSD Laboratory (Autumn 2017/18).
+

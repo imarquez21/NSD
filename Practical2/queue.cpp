@@ -119,7 +119,7 @@ void queue_print(Queue* queue){
 bool queue_is_empty(Queue* queue){
     if(queue == NULL)
         return true;
-
+    
     if(queue->length == 0)
         return true;
     return false;

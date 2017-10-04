@@ -40,5 +40,4 @@ int graph_set_nodes(Graph*);
 
 void file_reset(fstream &file);
 
-
 #endif //NSD_ADJACENCYLIST_H

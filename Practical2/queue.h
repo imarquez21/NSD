@@ -3,7 +3,6 @@
 #define NSD_QUEUE_H
 
 using namespace std;
-
 struct Node{
     long val;
     Node* next;

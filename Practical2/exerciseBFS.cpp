@@ -168,7 +168,7 @@ void BFS_cc(Graph* graph, long root, long* ids, long id, long &ids_length){
         return;
     if(ids == NULL)
         return;
-
+    
     Queue* queue = queue_init();
     bool* visited = new bool[graph->number_nodes];
 

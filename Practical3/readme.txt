@@ -13,8 +13,8 @@ To Run
 Please include the corresponding files in the same folder as the compiled file in order for it to work as expected.
 
 Files to be used:
-wiki.txt
-pagename.txt
+wiki.txt --> File with edges
+pagename.txt --> File with name of websites based on their index
 
 Notes:
 
